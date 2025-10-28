@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { Toaster, toast } from 'react-hot-toast';
 import DistrictSelector from './components/DistrictSelector';
 import PerformanceDashboard from './components/PerformanceDashboard';
